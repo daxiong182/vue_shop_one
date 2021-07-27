@@ -1,4 +1,4 @@
-# gshop
+# This is a simple store no server data
 
 > A Vue.js project
 
